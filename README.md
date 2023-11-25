@@ -1,16 +1,35 @@
-### Hi there 👋
+# Igor Bashtovenco
 
-<!--
-**IgorBasht/IgorBasht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <h1>Привет, я Игорь </h1>
+    <h3>Я из Краснодарского края </h3>
+</div>
 
-Here are some ideas to get you started:
+<div id="socials" align="center">
+    <a href="https://wa.me/79897591293">
+    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://vk.com/id153100116">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
+  </a>
+  <a href="mailto:ibasht0106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+- 🌱 I am interested in popular science and critical thinking
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [email](mailto:ibasht0106@gmail.com)
+
+---
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="SQL and PostgreSQL" width="40" height="40"/>&nbsp;
+
+---
