@@ -1,8 +1,8 @@
 # Igor Bashtovenco
 
 <div id="header" align="center">
-    <h1>Привет, я Игорь </h1>
-    <h3>Я начинающий аналитик данных из Краснодарского края </h3>
+    <h1> Hi, I'm Igor  </h1>
+    <h3> I am a data analyst from the Krasnodar region </h3>
 </div>
 
 <div id="socials" align="center">
